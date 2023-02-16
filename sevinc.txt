@@ -1,4 +1,4 @@
-10. Vurgusu ilk hecaya dison sozlori misyyan edin.
+❓ 10. Vurgusu ilk hecaya dison sozlori misyyan edin.
 1. sindrom
 2. ampul
 3. kolorit
@@ -10,5 +10,5 @@ B) 2,5
 E) 1:5
 C) 1.4
 
-Verilmiş cavab: a
-Düzgün cavab: c
+ℹ️ Verilmiş cavab: a
+✅ Düzgün cavab: c
