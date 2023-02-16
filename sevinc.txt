@@ -1,8 +1,8 @@
 Test
 
 ❓ 10. Vurgusu ilk hecaya dison sozlori misyyan edin.
-1. sindrom
-2. ampul
+1. 
+
 3. kolorit
 4. labirint
 5. replika
